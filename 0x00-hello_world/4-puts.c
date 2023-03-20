@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - entry point for writting a program that prints the line : Programming is like building a multilingual puzzle with put functn
+ * main - entry point for writting a program that prints a line put functn
  * Return: 0 (successfull)
  */
 int main(void)
