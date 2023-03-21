@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - a C program that prints the size of various types 
- * Return 0 (successful)
+ * main - a C program that prints the size of various types
+ * Return 0 (success)
  */
 int main(void)
 {
@@ -16,5 +16,5 @@ int main(void)
 	printf("Size of a long int: %lu 4 byte(s)\n", (unsigned long)sizeof(c));
 	printf("Size of a long long int: %lu 8 byte(s)\n", (unsigned long)sizeof(d));
 	printf("Size of a float: %lu 4 byte(s)\n", (unsigned long)sizeof(f));
-	return (0);
+return (0);
 }
