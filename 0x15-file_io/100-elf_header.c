@@ -1,4 +1,5 @@
 #include "mainn.h"
+#include "main.h"
 
 /**
  * main - the main Function that Displays the information contained in the
