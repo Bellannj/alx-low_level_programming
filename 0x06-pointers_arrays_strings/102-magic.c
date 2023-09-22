@@ -18,8 +18,6 @@ int *p;
    * - you are not allowed to modify p
    * - only one statement
    * - you are not allowed to code anything else than this line of code
-   * Description : sets that memory location to 98, effectively
-   *               achieving the goal of setting a[2] to 98.
    */
 
 	*(p + 5) = 98;
